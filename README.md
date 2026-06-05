@@ -337,13 +337,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-<div align="center">
-
-Made with ❤️ by **Yashashwi Singh**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashashwi--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashashwi-singh)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-
-*Report generated: March 27, 2026 | Model: ResNet50 | Framework: TensorFlow/Keras*
-
-</div>
